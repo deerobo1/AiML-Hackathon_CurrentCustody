@@ -1,1 +1,14 @@
-
+IPython.display  # Displaying content like widgets
+ipywidgets  # Creating interactive widgets for UI
+joblib  # Saving and loading trained machine learning models
+json  # Parsing and handling JSON data (used in displaying maps)
+matplotlib.pyplot  # Visualizing data and performance metrics
+numpy  # Mathematical operations and feature engineering (like sine/cosine transforms for one-hot encoding)
+pandas  # Data loading, manipulation, and DataFrame handling
+plotly.express  # Interactive visualizations (optional charts)
+plotly.graph_objects  # Custom interactive plots (optional)
+seaborn  # for advanced data visualisation and stylised graphs
+traceback  # Capturing and printing detailed error messages
+warnings  # Suppressing warnings in output cells
+xgboost  # Powerful gradient boosting model for regression
+scikit-learn  # Machine learning models, evaluation metrics, preprocessing tools
