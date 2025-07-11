@@ -8,7 +8,7 @@ pandas  # Data loading, manipulation, and DataFrame handling
 plotly.express  # Interactive visualizations (optional charts)
 plotly.graph_objects  # Custom interactive plots (optional)
 seaborn  # for advanced data visualisation and stylised graphs
-traceback  # Capturing and printing detailed error messages
+traceback  # Capturing and printing error messages
 warnings  # Suppressing warnings in output cells
 xgboost  # Powerful gradient boosting model for regression
 scikit-learn  # Machine learning models, evaluation metrics, preprocessing tools
